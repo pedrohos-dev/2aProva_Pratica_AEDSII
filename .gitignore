@@ -6,6 +6,9 @@ __pycache__/
 # C extensions
 *.so
 
+# Data
+data\moodle_10000.txt
+data\moodle_1000000.txt
 
 
 # Distribution / packaging

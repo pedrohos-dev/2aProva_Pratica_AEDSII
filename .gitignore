@@ -7,8 +7,8 @@ __pycache__/
 *.so
 
 # Data
-data\moodle_10000.txt
-data\moodle_1000000.txt
+*.txt
+
 
 
 # Distribution / packaging

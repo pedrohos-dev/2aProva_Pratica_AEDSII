@@ -43,7 +43,7 @@ def run_experiments():
         writer.writerow(["algorithm", "n", "comparisons", "time"])
         writer.writerows(results)
 
-    print("✅ Resultados salvos em results/results.csv")
+    print("Resultados salvos em results/results.csv")
 
 if __name__ == "__main__":
     run_experiments()
